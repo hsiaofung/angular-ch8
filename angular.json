@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-ch8"
+    }
+  },
+  "defaultProject": "angular-ch8",
+  "cli": {
+    "analytics": false
+  }
 }
